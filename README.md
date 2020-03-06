@@ -1,3 +1,3 @@
 # MaximilianLau.github.io
 
-Cool new github page
+## Cool new github page
